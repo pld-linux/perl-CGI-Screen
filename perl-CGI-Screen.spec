@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	CGI
-%define	pnam	Screen
+%define		pdir	CGI
+%define		pnam	Screen
 Summary:	CGI::Screen - Perl extension for easy creation of multi screen CGI scripts
 Summary(pl):	CGI::Screen - rozszerzenia Perla do ³atwego tworzenia wieloekranowych skryptów CGI
 Name:		perl-CGI-Screen
