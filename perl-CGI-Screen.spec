@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	CGI
 %define		pnam	Screen
-Summary:	CGI-Screen perl module
-Summary(pl):	Modu³ perla CGI-Screen
+Summary:	CGI::Screen perl module
+Summary(pl):	Modu³ perla CGI::Screen
 Name:		perl-CGI-Screen
 Version:	0.122
 Release:	8
@@ -15,11 +15,11 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-CGI-Screen - Perl extension for easy creation of multi screen CGI
+CGI::Screen - Perl extension for easy creation of multi screen CGI
 scripts.
 
 %description -l pl
-CGI-Screen - rozszerzenie perla u³atwiaj±ce tworzenie
+CGI::Screen - rozszerzenie perla u³atwiaj±ce tworzenie
 'wieloekranowych' skryptów CGI.
 
 %prep
