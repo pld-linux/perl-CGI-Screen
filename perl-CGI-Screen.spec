@@ -9,7 +9,7 @@ Summary:	CGI::Screen - Perl extension for easy creation of multi screen CGI scri
 Summary(pl):	CGI::Screen - rozszerzenia Perla do ³atwego tworzenia wieloekranowych skryptów CGI
 Name:		perl-CGI-Screen
 Version:	0.122
-Release:	9
+Release:	10
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
