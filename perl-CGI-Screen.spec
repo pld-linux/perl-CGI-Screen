@@ -3,7 +3,7 @@ Summary:	CGI-Screen perl module
 Summary(pl):	Modu³ perla CGI-Screen
 Name:		perl-CGI-Screen
 Version:	0.122
-Release:	5
+Release:	6
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
