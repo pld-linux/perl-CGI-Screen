@@ -27,7 +27,7 @@ parameters. This is the common case for scripts linking to themselves.
 
 %description -l pl
 CGI::Screen jest podklas± "CGI", która umo¿liwia ³atwe(TM) tworzenie
-wieloekranowycg skryptów CGI. ,,Skrypt wieloekranowy'' oznacza tu
+wieloekranowych skryptów CGI. ,,Skrypt wieloekranowy'' oznacza tu
 skrypt, który przedstawia u¿ytkownikowi ró¿ne ekrany, gdy wywo³ywany
 jest z ró¿nymi parametrami. Jest to przypadek ogólny dla skryptów,
 które wywo³uj± same siebie.
