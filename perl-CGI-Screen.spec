@@ -28,7 +28,7 @@ CGI::Screen - rozszerzenie perla u³atwiaj±ce tworzenie
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
