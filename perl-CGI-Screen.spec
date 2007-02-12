@@ -6,7 +6,7 @@
 %define		pdir	CGI
 %define		pnam	Screen
 Summary:	CGI::Screen - Perl extension for easy creation of multi screen CGI scripts
-Summary(pl):	CGI::Screen - rozszerzenia Perla do ³atwego tworzenia wieloekranowych skryptów CGI
+Summary(pl.UTF-8):   CGI::Screen - rozszerzenia Perla do Å‚atwego tworzenia wieloekranowych skryptÃ³w CGI
 Name:		perl-CGI-Screen
 Version:	0.122
 Release:	10
@@ -25,12 +25,12 @@ of simple multi screen CGI scripts.  By 'multi screen' I mean scripts
 which present different screens to the user when called with different
 parameters. This is the common case for scripts linking to themselves.
 
-%description -l pl
-CGI::Screen jest podklas± "CGI", która umo¿liwia ³atwe(TM) tworzenie
-wieloekranowych skryptów CGI. ,,Skrypt wieloekranowy'' oznacza tu
-skrypt, który przedstawia u¿ytkownikowi ró¿ne ekrany, gdy wywo³ywany
-jest z ró¿nymi parametrami. Jest to przypadek ogólny dla skryptów,
-które wywo³uj± same siebie.
+%description -l pl.UTF-8
+CGI::Screen jest podklasÄ… "CGI", ktÃ³ra umoÅ¼liwia Å‚atwe(TM) tworzenie
+wieloekranowych skryptÃ³w CGI. ,,Skrypt wieloekranowy'' oznacza tu
+skrypt, ktÃ³ry przedstawia uÅ¼ytkownikowi rÃ³Å¼ne ekrany, gdy wywoÅ‚ywany
+jest z rÃ³Å¼nymi parametrami. Jest to przypadek ogÃ³lny dla skryptÃ³w,
+ktÃ³re wywoÅ‚ujÄ… same siebie.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
