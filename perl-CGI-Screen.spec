@@ -4,7 +4,6 @@
 
 %define		pdir	CGI
 %define		pnam	Screen
-%include	/usr/lib/rpm/macros.perl
 Summary:	CGI::Screen - Perl extension for easy creation of multi screen CGI scripts
 Summary(pl.UTF-8):	CGI::Screen - rozszerzenia Perla do łatwego tworzenia wieloekranowych skryptów CGI
 Name:		perl-CGI-Screen
